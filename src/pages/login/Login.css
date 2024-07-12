@@ -1,0 +1,49 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+form{
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px gray;
+
+}
+input{
+    width: 100%;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+
+}
+
+form p{
+    margin: 10px 0;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+button{
+    width: 100%;
+    padding: 3px;
+    border-radius: 4px;
+    background-color: rgb(12, 81, 219);
+    color: white;
+    border: 0px;
+}
+form label{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.error-text{
+    color: red;
+    margin: 0;
+    padding: 0;
+    text-decoration: wavy;
+    
+}

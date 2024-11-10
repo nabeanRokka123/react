@@ -1,3 +1,7 @@
+React training where I learned how to build web applications using React components, manage state with Redux, and integrate APIs. I also gained hands-on experience with HTML, CSS, and Bootstrap, making it easier to create responsive and user-friendly websites
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

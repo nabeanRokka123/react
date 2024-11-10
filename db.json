@@ -23,6 +23,14 @@
       "lastname": "kai nai",
       "email": "kgardaikainai@GMAIL.COM",
       "id": "484c"
+    },
+    {
+      "id": "cb72",
+      "firstname": "martina",
+      "lastname": "shrestha",
+      "email": "martyshrestha@gmail.com",
+      "password": "324432435",
+      "phone": "9845323423"
     }
   ]
 }
